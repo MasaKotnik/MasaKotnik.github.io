@@ -1,7 +1,7 @@
-# ✨ Mašini *aestheticly pleasing* zapiski ✨
-Za lažjo preglednost in dostopnost tu na enem mestu zbiram vse svoje zapiske s FMF. Dvomim, da so bistveno boljši od tistih, ki so jih [TU](https://github.com/gregpr07/FMF?fbclid=IwAR0qWpr2IFPi6I5SZl89dknQyh2lWYJlY7zw_cDYJjU3Cm-CVreHNT7BL3I) že objavili moji kolegi, so pa morda preglednejši in bolj prijazni za oči 😊🌺 .
+# ✨ Mašini *aesthetically pleasing* zapiski ✨
+Za lažjo preglednost in dostopnost tu na enem mestu zbiram vse svoje zapiske s FMF. Dvomim, da so bistveno boljši od tistih, ki so jih [TULE](https://github.com/gregpr07/FMF?fbclid=IwAR0qWpr2IFPi6I5SZl89dknQyh2lWYJlY7zw_cDYJjU3Cm-CVreHNT7BL3I) že objavili moji kolegi, so pa morda preglednejši in bolj prijazni očem 😊🌺 .
 
-> Ker so fajli z mojimi zapiski precej veliki in jih nisem želela compressati na račun kvalitete ali pa deliti na več delov (ker si marsikdo želi sprintati skriptico), so na spodnjih straneh na voljo za ogled le previewi. Pod njimi se nahajajo linki do celotnih datotek. Ne skrbite, nikamor ne boste rabili vpisovati vaše bančne kartice, link vas pelje le do Drive-a, kjer si zapiske lahko v celoti ogledate oz. prenesete 😃
+> Ker so fajli z mojimi zapiski precej veliki in jih nisem želela compressati na račun kvalitete ali pa razbijati na več delov (ker si marsikdo želi sprintati skriptico), so na spodnjih straneh na voljo za ogled le previewi. Pod njimi se nahajajo linki do celotnih datotek. Ne skrbite, nikamor ne boste rabili vpisovati vaše bančne kartice, link vas pelje le do Drive-a, kjer si zapiske lahko v celoti ogledate oz. prenesete 😃
 
 ## 1. letnik
 [Klasična fizika]({%link predmeti/KLF.md %})
