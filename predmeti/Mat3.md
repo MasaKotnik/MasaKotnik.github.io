@@ -5,7 +5,7 @@
 
 > Kratek opis predmeta, profesorja in asistenta ter poteka ustnih izpitov.
 
-[Zapiski predavanj: preview]()
+[Zapiski predavanj: preview]() \
 [Zapiski vaj: preview]()
 
 [Celotni zapiski predavanj](https://drive.google.com/file/d/1azSTsJLwShMwXdCL3O7Yes4dDl7_nz-U/view?usp=sharing) \
