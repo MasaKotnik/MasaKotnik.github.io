@@ -7,14 +7,14 @@ Za lažjo preglednost in dostopnost tu na enem mestu zbiram vse svoje zapiske s 
 [Klasična fizika]({%link predmeti/KLF.md %})
 
 ## 2. letnik
-[Moderna fizika 1] \
-[Matematika 3] \
-[Statistična termodinamika] \
-[Uvod v fiziko atmosfere] \
-[Moderna fizika 2] \
-[Matematika 4] \
-[Klasična mehanika] \
-[Matematična fizika 1] 
+[Moderna fizika 1]({%link predmeti/MF1.md %}) \
+[Matematika 3]({%link predmeti/Mat3.md %}) \
+[Statistična termodinamika]({%link predmeti/STD.md %}) \
+[Uvod v fiziko atmosfere]({%link predmeti/UVFA.md %}) \
+[Moderna fizika 2]({%link predmeti/MF2.md %}) \
+[Matematika 4]({%link predmeti/Mat4.md %}) \
+[Klasična mehanika]({%link predmeti/KLM.md %}) \
+[Matematična fizika 1]({%link predmeti/MaFi1.md %}) 
 
 ## 3. letnik
-[Elektromagnetno polje]
+[Elektromagnetno polje]({%link predmeti/EMP.md %})
