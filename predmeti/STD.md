@@ -3,8 +3,8 @@
 **Asistent:** Gregor Skačej \
 **Študijsko leto:** 2020/21 
 
-> Kratek opis predmeta, profesorja in asistenta ter poteka ustnih izpitov.
+> Meni manj ljub predmet. That's it.
 
-[Zapiski predavanj: preview]() 
+[Zapiski predavanj: preview]({%link previews/STD_predavanja_preview.pdf %})
 
 [Celotni zapiski predavanj](https://drive.google.com/file/d/1qQ42KONCjbYTmipnnmP3XaKImpWmBABv/view?usp=sharing)
