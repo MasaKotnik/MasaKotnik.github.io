@@ -1,8 +1,3 @@
----
-title: Mašini zapiski
-favicon: 🐨
----
-
 # ✨ Mašini *aesthetically pleasing* zapiski ✨
 Za lažjo preglednost in dostopnost tu na enem mestu zbiram vse svoje zapiske s FMF. Dvomim, da so bistveno boljši od tistih, ki so jih [TULE](https://github.com/gregpr07/FMF?fbclid=IwAR0qWpr2IFPi6I5SZl89dknQyh2lWYJlY7zw_cDYJjU3Cm-CVreHNT7BL3I) že objavili moji kolegi, so pa morda preglednejši in bolj prijazni očem 😊🌺 .
 
